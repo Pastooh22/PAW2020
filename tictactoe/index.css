@@ -1,0 +1,11 @@
+button  {
+    width:85px;
+    height:85px;
+    border: 5px solid #0026ff;
+    background: #778;
+    font-size: 46pt;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+}
